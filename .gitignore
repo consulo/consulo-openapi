@@ -1,0 +1,4 @@
+/.consulo
+/.consulo/sandbox/    
+target/
+plugin/sandbox

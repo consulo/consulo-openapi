@@ -1,0 +1,12 @@
+<consulo-plugin url="https://github.com/consulo/consulo-openapi">
+    <id>consulo.openapi</id>
+    <name>OpenAPI</name>
+    <description>OpenAPI Specification implementation</description>
+    <version>SNAPSHOT</version>
+
+    <depends optional="true">org.jetbrains.idea.maven</depends>
+
+    <tags>
+        <tag>tools</tag>
+    </tags>
+</consulo-plugin>
