@@ -6,4 +6,5 @@ module consulo.openapi.maven {
     requires consulo.ide.api;
 
     requires org.jetbrains.idea.maven;
+    requires org.jetbrains.idea.maven.server.common;
 }
