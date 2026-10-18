@@ -5,6 +5,7 @@
     <version>SNAPSHOT</version>
 
     <depends optional="true">org.jetbrains.idea.maven</depends>
+    <depends optional="true">consulo.java</depends>
 
     <tags>
         <tag>tools</tag>

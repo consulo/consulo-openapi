@@ -26,6 +26,8 @@
     </repositories>
 
     <modules>
+        <module>api</module>
+        <module>java</module>
         <module>plugin</module>
         <module>maven-plugin</module>
     </modules>

@@ -1,0 +1,6 @@
+action.export.specification.text:
+    text: Export OpenAPI Specification
+client.generator.title:
+    text: OpenAPI
+default.document.title:
+    text: Endpoints
